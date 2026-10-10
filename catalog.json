@@ -1,7 +1,7 @@
 {
   "payload": {
     "schema": 1,
-    "sequence": 1,
+    "sequence": 2,
     "models": [
       {
         "id": "qwen3.5-4b-q4_k_m",
@@ -21,7 +21,7 @@
         "converter": "Unsloth",
         "reasoning": false,
         "release": 1,
-        "minimum_app": "2.4.3"
+        "minimum_app": "1.0.0"
       },
       {
         "id": "qwen3.5-2b-q4_k_m",
@@ -41,9 +41,9 @@
         "converter": "Unsloth",
         "reasoning": false,
         "release": 1,
-        "minimum_app": "2.4.3"
+        "minimum_app": "1.0.0"
       }
     ]
   },
-  "signature": "MQt3EDHkadegAwklqLzkZ0VeF+iVcnQQQ2KvXowPt02M36QVME6BNvJ28smv9NnNGRAWKzGxUbsSgciJWb9oAA=="
+  "signature": "+dqUEpHIxKRNm4ACdNAi/Al07O0INtOgtjshschImjRhs8WdxDZDTK1Qqf9DQ6XtPO2WZ9tVWg/SR/Tk6Q37AA=="
 }

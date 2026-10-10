@@ -1,4 +1,4 @@
-# Whisper Local - katalog modeli
+# Own Spell - katalog modeli
 
 Ten katalog zawiera wyłącznie publiczne metadane zatwierdzonych modeli i podpis cyfrowy.
 Nie zawiera kodu aplikacji, danych użytkownika, modeli, tokenów ani klucza prywatnego.
